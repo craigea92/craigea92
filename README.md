@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+ <h2>  👋 Hi there, I'm Craig</h2>
+</div>
+
+<div align="center">
+ <a href="https://www.linkedin.com/in/craigaeaton/">
+    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+<br> 
 
 <!--
 **craigea92/craigea92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
