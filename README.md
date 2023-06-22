@@ -27,6 +27,7 @@
 <a href="https://sass-lang.com/"> <img src="https://icongr.am/devicon/sass-original.svg?size=40&color=currentColor" alt="sass"/> </a>
 <a href="https://www.w3schools.com/html/"> <img src="https://icongr.am/devicon/html5-original.svg?size=40&color=8000ff" alt="html5"/> </a>
 <a href="https://www.w3schools.com/css/"> <img src="https://icongr.am/devicon/css3-original.svg?size=40&color=8000ff" alt="css3"/> </a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 
 ## Github Stats
 <p align="center">
