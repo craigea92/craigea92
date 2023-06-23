@@ -7,6 +7,7 @@
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=craigea92&style=flat-square&color=blue" alt=""/>
+    <img src="https://www.codewars.com/users/craigea92/badges/micro" />
 </div>
 
 ## About Me 
@@ -17,7 +18,6 @@
 - :zap: In my free time, I like to learn more about Software Development and then try to build my own applications and websites.
 
 ## Languages and Tech
-
 <a href="https://www.typescriptlang.org/"> <img src="https://icongr.am/devicon/typescript-plain.svg?size=40&color=currentColor" alt="typescript"/> </a>
 <a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
 <a href="https://reactjs.org/"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"/> </a>
