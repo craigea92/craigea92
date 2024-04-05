@@ -18,6 +18,8 @@
 - :zap: In my free time, I like to learn more about Software Development and then try to build my own applications and websites.
 
 ## Languages and Tech
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> <img src="https://icongr.am/devicon/csharp-original.svg?size=40&color=currentColor" alt="c#"/> </a>
+<a href="https://dotnet.microsoft.com/en-us/"> <img src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=40&color=currentColor" alt="dotnet"/> </a>
 <a href="https://www.typescriptlang.org/"> <img src="https://icongr.am/devicon/typescript-plain.svg?size=40&color=currentColor" alt="typescript"/> </a>
 <a href="https://www.javascript.com/"> <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=currentColor" alt="javascript"/> </a>
 <a href="https://reactjs.org/"> <img src="https://icongr.am/devicon/react-original.svg?size=40&color=currentColor" alt="react"/> </a>
